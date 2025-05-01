@@ -61,6 +61,10 @@ menuBtn.addEventListener('click', () => {
 let userPoints = 100
 const materiData = [
     {
+        "file": "profil.html",
+        "level": 0,
+    },
+    {
         "file": "beranda.html",
         "level": 0,
     },
